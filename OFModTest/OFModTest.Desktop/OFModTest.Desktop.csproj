@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Project">
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>OFModTest</AssemblyName>
+    <ApplicationIcon>game.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>0.0.0</Version>
+    <FileVersion>0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup Label="Project References">
+    <ProjectReference Include="..\OFModTest.Game\OFModTest.Game.csproj" />
+    <ProjectReference Include="..\ModExample\Mod.Example.csproj" />
+    <ProjectReference Include="..\..\Mod.Example2\Mod.Example2.csproj" />
+  </ItemGroup>
+  <ItemGroup Label="Resources">
+    <EmbeddedResource Include="game.ico" />
+  </ItemGroup>
+</Project>

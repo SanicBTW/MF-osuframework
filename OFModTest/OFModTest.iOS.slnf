@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "OFModTest.sln",
+    "projects": [
+      "OFModTest.Game\\OFModTest.Game.csproj",
+      "OFModTest.Resources\\OFModTest.Resources.csproj",
+      "OFModTest.iOS\\OFModTest.iOS.csproj"
+    ]
+  }
+}

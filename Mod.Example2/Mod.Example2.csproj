@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModdingFramework\ModdingFramework.csproj" />
+    <ProjectReference Include="..\OFModTest\OFModTest.Game\OFModTest.Game.csproj" />
+  </ItemGroup>
+
+</Project>
