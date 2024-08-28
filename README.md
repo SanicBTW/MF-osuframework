@@ -1,3 +1,11 @@
+# MOVING REPO
+
+Since the Modding Framework already got an own repo and a better example running please go to the new repo to have an example of how to use it in osu!framework.
+
+[Aether Framework](https://github.com/SanicBTW/Aether-Framework)
+
+[New test repo](https://github.com/SanicBTW/AFOFTest)
+
 # Modding Framework - osu!framework
 
 This is a repo to show off my Modding Framework (pending new name) working on osu!framework.
